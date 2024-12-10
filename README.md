@@ -1,14 +1,13 @@
-# Phishing para captura de senhas do Facebook
+# Clonagem de um site para coleta de credenciais
 
 ### Ferramentas
 
 - Linux
-- setoolkit
+- Social Engineering Toolkit
   
-
 ### Resultados
 
-![Alt text](./image.png "Optional title")
+![Site Clonado](outputset.png)
 
 
-![Alt text](./passwd.png "Optional title")
+
