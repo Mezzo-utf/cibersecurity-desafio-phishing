@@ -7,7 +7,8 @@
   
 ### Resultados
 
-![Site Clonado](outputset.png)
+![Site Clonado](sitecloned.jpeg)
+![Output](outputset.png)
 
 
 
